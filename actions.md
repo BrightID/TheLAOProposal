@@ -1,4 +1,4 @@
-# LAO BrightID Proposal Actions
+# LAO BrightID Proposed Actions
 
 ## Whitelist Subs tokens
 At the initial launch of The LAO, the BrightID subscriptions (“Subs”) token ([etherscan address](https://etherscan.io/token/0x61CEAc48136d6782DBD83c09f51E23514D12470a)) will be added to the whitelist.
