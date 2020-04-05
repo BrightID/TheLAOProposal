@@ -9,7 +9,16 @@ In order to comply with the “token whitelisting” section in the [article on 
 By removing all pauser roles, BrightID Main DAO has removed all possible interference with the `transfer` and `transferFrom` functions of the Subs token as defined in the [ERC-20 standard](https://eips.ethereum.org/EIPS/eip-20) and [implemented by open-zepplin](https://github.com/BrightID/Sponsorship-Subscriptions-SmartContracts/blob/master/node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol). The makes the Subs token safe for use by The LAO's smart contract.
 
 ## Investment Proposal
+The LAO should purchase 100,000 BrightID Subs from the [sponsorship dashboard](https://sp.brightid.org). Subs are a discounted stream of sponsorships that can be resold at a profit to businesses that need BrightID.
 
 ### BBIZ DAO Agent to purchase Subs
+Because The LAO in its current version lacks agent capabilities, it will use BrightID's administrative DAO (BBIZ DAO) to make the purchase.
 
-### Returning Subs as tribute
+#### Grant
+The LAO will grant 100,000 DAI to BrightID's administrative DAO (BBIZ DAO) at its [Aragon agent address](https://mainnet.aragon.org/#/brightid/organization/): `0x005ca4f1493f451c1588186c570a434ec38e718d`.
+
+#### Purchase Subs
+BBIZ DAO's agent will interact with the sponsorship dashboard to buy 100,000 Subs.
+
+#### Returning Subs as tribute
+BBIZ DAO's agent will create a proposal to tribute 100,000 Subs to The LAO. No shares or other token will be granted to BBIZ DAO in return.
