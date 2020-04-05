@@ -10,6 +10,6 @@ By removing all pauser roles, BrightID Main DAO has removed all possible interfe
 
 ## Investment Proposal
 
-### BBIZ DAO Agent to purchase subs
+### BBIZ DAO Agent to purchase Subs
 
 ### Returning Subs as tribute
