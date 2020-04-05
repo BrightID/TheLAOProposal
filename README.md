@@ -1,7 +1,7 @@
 # TheLAOProposal
 Relevant information for BrightID's investment proposal to The LAO members.
 
-* [Proposal actions](proposalActions.md)
+* [Proposed actions](actions.md)
 * [Whitepaper](https://www.brightid.org/whitepaper)
 * [Sponsorships: long-term funding of a public good](https://medium.com/brightid/brightid-sponsorships-5327a8d39f1e)
 * [Subscriptions: a discounted stream of sponsorships](https://www.brightid.org/sponsorships)
