@@ -21,4 +21,4 @@ The LAO will grant 100,000 DAI to BrightID's administrative DAO (BBIZ DAO) at it
 BBIZ DAO's agent will interact with the sponsorship dashboard to buy 100,000 Subs.
 
 #### Returning Subs as tribute
-BBIZ DAO's agent will create a proposal to tribute 100,000 Subs to The LAO. No shares or other token will be granted to BBIZ DAO in return.
+BBIZ DAO's agent will create a proposal to tribute 100,000 Subs to The LAO. No shares or other tokens will be granted to BBIZ DAO in return.
