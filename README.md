@@ -3,6 +3,7 @@ Relevant information for BrightID's investment proposal to The LAO.
 
 * [Proposed actions](actions.md)
 * [Whitepaper](https://www.brightid.org/whitepaper)
+* [BrightID Team](https://docs.google.com/document/d/10NcbUhkIEnljNlnTMjuJZZr34p8tjbbQzo_8L_BTtVM)
 * [Sponsorships: long-term funding of a public good](https://medium.com/brightid/brightid-sponsorships-5327a8d39f1e)
 * [Subscriptions: a discounted stream of sponsorships](https://www.brightid.org/sponsorships)
 * [BrightID Main LLC Operating Agreement](https://drive.google.com/file/d/1WT04CNV_VnKUHMSNzwFQALnaDNYvWP5g/view?ts=5e626b79)
