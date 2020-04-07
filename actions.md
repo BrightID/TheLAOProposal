@@ -15,7 +15,7 @@ The LAO will purchase 100,000 BrightID Subs from the [sponsorship dashboard](htt
 Because The LAO in its current version lacks agent capabilities, it will use BrightID's administrative DAO (BBIZ DAO) to make the purchase.
 
 #### Grant
-The LAO will grant 100,000 DAI to BrightID's administrative DAO (BBIZ DAO) at its [Aragon agent address](https://mainnet.aragon.org/#/brightid/organization/): `0x005ca4f1493f451c1588186c570a434ec38e718d`.
+The LAO will grant 100,000 DAI to BrightID's administrative DAO (BBIZ DAO) at its [Aragon agent address](https://mainnet.aragon.org/#/brightidbiz/organization): `0x7ea598f29812673975334c1445ae5c9158b66cb8`.
 
 #### Purchase Subs
 BBIZ DAO's agent will interact with the sponsorship dashboard to buy 100,000 Subs.
