@@ -1,5 +1,5 @@
 # TheLAOProposal
-Relevant information for BrightID's investment proposal to The LAO.
+Relevant information for BrightID's investment proposal to [The LAO](https://www.thelao.io/).
 
 * [Proposed actions](actions.md)
 * [Whitepaper](https://www.brightid.org/whitepaper)
