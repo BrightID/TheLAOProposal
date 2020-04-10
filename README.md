@@ -1,7 +1,7 @@
 # The LAO proposal
 Relevant information for BrightID's investment proposal to [The LAO](https://www.thelao.io/).
 
-It is proposed that The LAO will use 100,000 DAI (or its equivalent in other tokens) to purchase [BrightID Subscription tokens](https://www.brightid.org/sponsorships) (["Subs"](https://etherscan.io/token/0x61CEAc48136d6782DBD83c09f51E23514D12470a)).
+It is proposed that The LAO will use 100,000 DAI (or its equivalent in other tokens) to purchase [BrightID Subscription tokens](https://www.brightid.org/sponsorships) (["Subs"](https://etherscan.io/token/0x61CEAc48136d6782DBD83c09f51E23514D12470a)), with the proceeds going to [BrightID Main DAO](https://github.com/BrightID/BrightID-Constitution/blob/master/README.md).
 
 * [Proposed actions](actions.md)
 * [Whitepaper](https://www.brightid.org/whitepaper)
