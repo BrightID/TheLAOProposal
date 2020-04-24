@@ -1,5 +1,5 @@
 # The LAO proposal
-Relevant information for BrightID's investment proposal to [The LAO](https://www.thelao.io/).
+Relevant information for BrightID's [investment proposal](actions.md) to [The LAO](https://www.thelao.io/).
 
 >BrightID is a social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity. [-BrightID website](www.brightid.org)
 
