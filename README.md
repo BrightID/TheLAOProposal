@@ -3,7 +3,7 @@ Relevant information for BrightID's [investment proposal](actions.md) to [The LA
 
 >BrightID is a social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity. [-BrightID website](https://www.brightid.org)
 
-It is proposed that The LAO will use 100,000 DAI (or its equivalent in other tokens) to purchase [BrightID Subscription tokens](https://www.brightid.org/sponsorships) (["Subs"](https://etherscan.io/token/0x61CEAc48136d6782DBD83c09f51E23514D12470a)), with the proceeds going to [BrightID Main DAO](https://aragon.org/studies/brightid).
+It is proposed that The LAO will use 50,000 DAI (or its equivalent in other tokens) to purchase [BrightID Subscription tokens](https://www.brightid.org/sponsorships) (["Subs"](https://etherscan.io/token/0x61CEAc48136d6782DBD83c09f51E23514D12470a)), with the proceeds going to [BrightID Main DAO](https://aragon.org/studies/brightid).
 
 [Full document on the proposed actions.](actions.md)
 
