@@ -13,7 +13,7 @@ Because The LAO in its current version lacks agent capabilities, it will use Bri
 The LAO will grant 50,000 DAI to BrightID's administrative DAO (BBIZ DAO) at its [Aragon agent address](https://mainnet.aragon.org/#/brightidbiz/organization): `0x7ea598f29812673975334c1445ae5c9158b66cb8`.
 
 #### Purchase Subs
-BBIZ DAO's agent will interact with the sponsorship dashboard to buy 100,000 Subs.
+BBIZ DAO's agent will interact with the sponsorship dashboard to buy 50,000 Subs.
 
 #### Returning Subs as tribute
 BBIZ DAO's agent will create a proposal to tribute 100,000 Subs to The LAO. No shares or other tokens will be granted to BBIZ DAO in return.
