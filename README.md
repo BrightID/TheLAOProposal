@@ -3,7 +3,7 @@ Relevant information for BrightID's investment proposal to [The LAO](https://www
 
 The LAO will use 50,000 DAI (or its equivalent in other tokens) to purchase [BrightID Subscription tokens](https://www.brightid.org/sponsorships) (["Subs"](https://etherscan.io/token/0x61CEAc48136d6782DBD83c09f51E23514D12470a)), with the proceeds going to [BrightID Main DAO](https://aragon.org/studies/brightid).
 
-[What are Subs for? Read this article to find out.](https://medium.com/brightid/what-value-do-subscriptions-subs-have-for-applications-49b7602aa228)
+[What are Subs for? Read this article.](https://medium.com/brightid/what-value-do-subscriptions-subs-have-for-applications-49b7602aa228)
 
 [Full document on the proposed actions.](actions.md)
 
