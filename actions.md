@@ -4,7 +4,7 @@
 BrightID Subscriptions (“Subs”) tokens ([etherscan address](https://etherscan.io/token/0x61CEAc48136d6782DBD83c09f51E23514D12470a)) will be added to the whitelist of tokens that can be held by The LAO.
 
 ## Investment Proposal
-The LAO will purchase 50,000 dai worth of BrightID Subs from the [sponsorship dashboard](https://sp.brightid.org). Subs are a discounted stream of [sponsorships](https://medium.com/brightid/brightid-sponsorships-5327a8d39f1e) that can be resold to businesses that need BrightID.
+The LAO will purchase $50,000 worth of BrightID Subs from the [sponsorship dashboard](https://sp.brightid.org). Subs are a discounted stream of [sponsorships](https://medium.com/brightid/brightid-sponsorships-5327a8d39f1e) that can be resold to businesses that need BrightID.
 
 ### BBIZ DAO Agent to purchase Subs
 Because The LAO in its current version lacks agent capabilities, it will use BrightID's administrative DAO (BBIZ DAO) to make the purchase.
@@ -13,7 +13,7 @@ Because The LAO in its current version lacks agent capabilities, it will use Bri
 The LAO will grant funds to BrightID's administrative DAO (BBIZ DAO) at its [Aragon agent address](https://mainnet.aragon.org/#/brightidbiz/organization): `0x7ea598f29812673975334c1445ae5c9158b66cb8`.
 
 #### Purchase Subs
-BBIZ DAO's agent will interact with the sponsorship dashboard to buy 50,000 dai worth of Subs.
+BBIZ DAO's agent will interact with the sponsorship dashboard to buy $50,000 worth of Subs.
 
 #### Returning Subs as tribute
 BBIZ DAO's agent will create a proposal to tribute the acquired Subs to The LAO. No shares or other tokens will be granted to BBIZ DAO in return.
